@@ -27,7 +27,7 @@ void separating(char sep, string str){
         else cout << str[i];
     }
     cout << endl;
-}
+} 
 
 char menu(){
     char choice;

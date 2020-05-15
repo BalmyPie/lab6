@@ -5,4 +5,4 @@ using namespace std;
 char separator();
 string stringdef();
 char menu();
-void separating(char sep, string str);
+void separating(char sep, string str); 

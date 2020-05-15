@@ -23,7 +23,7 @@ int main(){
                 case '3':
                     separating(sep, str);
                     break;
-                default:
+                default: 
                     return 0;
                     fl = 1;
                     break;
